@@ -177,6 +177,7 @@ footer ul{
   justify-content: space-around;
   
   flex-wrap: wrap;
+  padding-bottom: 20px;
 }
 footer ul li{
   list-style: none;
